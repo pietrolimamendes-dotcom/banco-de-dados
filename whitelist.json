@@ -1,0 +1,10 @@
+{
+  "authorized_users": [
+    {
+      "user_id": 675610857,
+      "username": "pietrofrutal",
+      "tier": "Admin",
+      "expiration": "2027-01-01"
+    }
+  ]
+}
